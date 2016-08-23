@@ -7,6 +7,13 @@ int createFile() {
 	printf("%d file descriptor while creating file : \n",fileDescriptor);
 	return fileDescriptor;
 }
+// For unlinking a file
+void unlinkFile() {
+	char *path = "todelete.txt";
+	unlink(path);
+	printf("Unlinked todelete.txt file \n");
+}
+
 
 int openFile(int mode) {
 	int fileDescriptor = open("testy.txt", mode);
@@ -84,6 +91,8 @@ int main() {
 	printf("Effective  user ID %d \n", EUserID );
 	printf("Effective Group ID %d \n", EgroupID );
 
+
+	unlinkFile();
 	int fileDescriptor = createFile();
 	
 
