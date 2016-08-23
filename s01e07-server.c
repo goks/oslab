@@ -35,7 +35,7 @@ int main(int argc, char *argv[])
         error("ERROR opening socket");
      bzero((char *) &serv_addr, sizeof(serv_addr));  //byte-zero initialized as zero
      portno = atoi(argv[1]); 
-     serv_addr.sin_family = AF_INET;  x
+     serv_addr.sin_family = AF_INET; 
      serv_addr.sin_addr.s_addr = INADDR_ANY; 	//INADDR_ANY alows server to receive packets destined to any of the interfaces
 /*
 struct in_addr {
