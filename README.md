@@ -44,7 +44,7 @@ AIM: To study the system calls – `create(), open(), read(), write(), close(), 
 
 \<Header files, syntax and description\>
 
-######Program No: (i):
+####Program No: (i):
 To get the process id, parent process id, real user id, real group id, effective user id, effective group id.
 
 \<Header files, syntax and description of getpid(), getppid(), getuid(), getgid(), geteuid(), getegid()\>
@@ -55,37 +55,37 @@ Case 1: Same real user and effective user
 
 Case 2: Different real user and effective user
 
-######Program No: (ii): 
+####Program No: (ii): 
 Familiarization of `fork()` system call
 
 \<Header files, syntax and description\>
 
 Program, Execution Steps, Output
 
-######Program No: (iii): Familiarization of `system()` system call
+####Program No: (iii): Familiarization of `system()` system call
 
 \<Header files, syntax and description\>
 
 Program, Execution Steps, Output
 
-######Program No: (iv): Familiarization of `pipe()` system call
+####Program No: (iv): Familiarization of `pipe()` system call
 \<Header files, syntax and description\>
 
 Program, Execution Steps, Output
 
-######Program No: (v): To create a FIFO (named pipe)
-
-\<Header files, syntax and description\>
-
-Program, Execution Steps, Output
-
-######Program No: (vi): Familiarization of `execl()` system call
+####Program No: (v): To create a FIFO (named pipe)
 
 \<Header files, syntax and description\>
 
 Program, Execution Steps, Output
 
-######Program No: (vii): Familiarization of `wait()` system call
+####Program No: (vi): Familiarization of `execl()` system call
+
+\<Header files, syntax and description\>
+
+Program, Execution Steps, Output
+
+####Program No: (vii): Familiarization of `wait()` system call
 
 \<Header files, syntax and description\>
 
@@ -95,7 +95,7 @@ Case 1: Executing without wait system call
 
 Case 2: Executing with wait system call
 
-######Program No: (viii): Familiarization of `socket()` system call
+####Program No: (viii): Familiarization of `socket()` system call
 
 \<Header files, syntax and description\>
 
