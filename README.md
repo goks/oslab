@@ -100,3 +100,38 @@ Case 2: Executing with wait system call
 \<Header files, syntax and description\>
 
 Program, Execution Steps, Output
+
+##Expt No:2
+##FILE TYPE
+AIM: To print the type of a given file
+
+\<Header files, syntax and description\>
+
+Program, Execution steps, Output for regular file, character special file, block special file, directory, fifo, symbolic link, socket
+
+##Expt No:2
+##FILE ATTRIBUTES
+AIM: To accept a file name from the keyboard and display the following attributes of the file
+
+a) Access permissions b) i-node number c)Time of last file access d) Time of last file modification e) File Size
+
+\<Header files, syntax and description\>
+
+Program, Execution steps, Output
+
+##Expt No:2
+##STUDY OF SIGNALS
+AIM: To study the signals – `SIGINT, SIGCLD, SIGQUIT,SIGALRM`
+
+\<Header files, syntax and description\>
+
+Program, Execution steps
+
+Output
+
+Case 1: While pressing Ctrl + C
+
+Case 2: While pressing Ctrl + /
+
+Case 3: Without pressing Ctrl + C & Ctrl + /
+
