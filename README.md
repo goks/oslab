@@ -1,49 +1,48 @@
 #OSLAB
-###CS 17L2 NETWORKS AND OPERATING SYSTEMS LABORATORY
+#CS 17L2 NETWORKS AND OPERATING SYSTEMS LABORATORY
 
-####CYCLE I
-####Expt No:1
+##CYCLE I
+###Expt No:1
 
 ####STUDY OF SYSTEM CALLS
 
-AIM: To study the system calls – create(), open(), read(), write(), close(), sleep(), exit(), unlink(), kill(), getpid(), getppid(), getuid(), getgid(), geteuid(), getegid(), fork(), system(), pipe(), mknod(), execl(), wait(),socket()
+AIM: To study the system calls – `create(), open(), read(), write(), close(), sleep(), exit(), unlink(), kill(), getpid(), getppid(), getuid(), getgid(), geteuid(), getegid(), fork(), system(), pipe(), mknod(), execl(), wait(),socket()`
 
-creat() system call
+`creat()` system call
 
-<Header files, syntax and description>
+\<Header files, syntax and description\>
 
-open() system call
+`open()` system call
 
-<Header files, syntax and description>
+\<Header files, syntax and description\>
 
-read() system call
+`read()` system call
 
-<Header files, syntax and description>
+\<Header files, syntax and description\>
 
-write() system call
+`write()` system call
 
-<Header files, syntax and description>
+\<Header files, syntax and description\>
 
-close() system call
+`close()` system call
 
-<Header files, syntax and description>
+\<Header files, syntax and description\>
 
-sleep() system call
+`sleep()` system call
 
-<Header files, syntax and description>
-creat() system call
+\<Header files, syntax and description\>
 
-exit() system call
+`exit()` system call
 
-<Header files, syntax and description>
+\<Header files, syntax and description\>
 
-unlink() system call
+`unlink()` system call
 
-<Header files, syntax and description>
+\<Header files, syntax and description\>
 
-kill() system call
+`kill()` system call
 
-<Header files, syntax and description>
+\<Header files, syntax and description\>
 
 Program No: (i): To get the process id, parent process id, real user id, real group id, effective user id, effective group id.
 <Header files, syntax and description of getpid(), getppid(), getuid(), getgid(), geteuid(), getegid()>
