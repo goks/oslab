@@ -44,31 +44,59 @@ AIM: To study the system calls – `create(), open(), read(), write(), close(), 
 
 \<Header files, syntax and description\>
 
-Program No: (i): To get the process id, parent process id, real user id, real group id, effective user id, effective group id.
-<Header files, syntax and description of getpid(), getppid(), getuid(), getgid(), geteuid(), getegid()>
+######Program No: (i):
+To get the process id, parent process id, real user id, real group id, effective user id, effective group id.
+
+\<Header files, syntax and description of getpid(), getppid(), getuid(), getgid(), geteuid(), getegid()\>
+
 Program, Execution Steps, Output
+
 Case 1: Same real user and effective user
+
 Case 2: Different real user and effective user
-Program No: (ii): Familiarization of fork() system call
-<Header files, syntax and description>
+
+######Program No: (ii): 
+Familiarization of `fork()` system call
+
+\<Header files, syntax and description\>
+
 Program, Execution Steps, Output
-Program No: (iii): Familiarization of system() system call
-<Header files, syntax and description>
+
+######Program No: (iii): Familiarization of `system()` system call
+
+\<Header files, syntax and description\>
+
 Program, Execution Steps, Output
-Program No: (iv): Familiarization of pipe() system call
-<Header files, syntax and description>
+
+######Program No: (iv): Familiarization of `pipe()` system call
+\<Header files, syntax and description\>
+
 Program, Execution Steps, Output
-Program No: (v): To create a FIFO (named pipe)
-<Header files, syntax and description>
+
+######Program No: (v): To create a FIFO (named pipe)
+
+\<Header files, syntax and description\>
+
 Program, Execution Steps, Output
-Program No: (vi): Familiarization of execl() system call
-<Header files, syntax and description>
+
+######Program No: (vi): Familiarization of `execl()` system call
+
+\<Header files, syntax and description\>
+
 Program, Execution Steps, Output
-Program No: (vii): Familiarization of wait() system call
-<Header files, syntax and description>
+
+######Program No: (vii): Familiarization of `wait()` system call
+
+\<Header files, syntax and description\>
+
 Program, Execution Steps, Output
+
 Case 1: Executing without wait system call
+
 Case 2: Executing with wait system call
-Program No: (viii): Familiarization of socket() system call
-<Header files, syntax and description>
+
+######Program No: (viii): Familiarization of `socket()` system call
+
+\<Header files, syntax and description\>
+
 Program, Execution Steps, Output
