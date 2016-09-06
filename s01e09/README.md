@@ -10,3 +10,8 @@ AIM: To print the type of a given file
 Program, Execution steps, Output for regular file, character special file, block special file, directory, fifo, symbolic link, socket
 
 input filename as cli argument.
+
+
+character special file  ```/dev/sda0```
+
+block special file  ``` /dev/tty```
