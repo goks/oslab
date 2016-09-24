@@ -9,3 +9,7 @@ AIM: To implement interprocess communication using fifo
 \< Header files, syntax and description \>
 
 Program, Execution steps, Output
+
+#####Steps to Compile
+
+Run the two programs in separate tabs.
